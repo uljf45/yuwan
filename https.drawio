@@ -1,1 +1,68 @@
-<mxfile host="app.diagrams.net" modified="2021-04-29T03:00:18.131Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" version="14.6.6" etag="xfQoSfkUGZfwcMGhkvXu" type="github"><diagram id="U-4tc1MgvWtWsQybKFCY">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-29T03:57:13.509Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="umeGk-UXIoJkPoxNFOwk" version="14.6.6" type="github">
+  <diagram id="U-4tc1MgvWtWsQybKFCY" name="第 1 页">
+    <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="w_0JxuRFHpsOuWEEec5f-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="w_0JxuRFHpsOuWEEec5f-2" target="w_0JxuRFHpsOuWEEec5f-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w_0JxuRFHpsOuWEEec5f-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="w_0JxuRFHpsOuWEEec5f-2" target="w_0JxuRFHpsOuWEEec5f-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w_0JxuRFHpsOuWEEec5f-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="w_0JxuRFHpsOuWEEec5f-2" target="w_0JxuRFHpsOuWEEec5f-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w_0JxuRFHpsOuWEEec5f-2" value="&lt;font style=&quot;font-size: 16px&quot;&gt;浏览器&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="40" width="120" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="w_0JxuRFHpsOuWEEec5f-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="w_0JxuRFHpsOuWEEec5f-3" target="w_0JxuRFHpsOuWEEec5f-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="40" y="260" />
+              <mxPoint x="40" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w_0JxuRFHpsOuWEEec5f-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="w_0JxuRFHpsOuWEEec5f-3" target="w_0JxuRFHpsOuWEEec5f-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w_0JxuRFHpsOuWEEec5f-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w_0JxuRFHpsOuWEEec5f-3" target="w_0JxuRFHpsOuWEEec5f-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w_0JxuRFHpsOuWEEec5f-3" value="&lt;font style=&quot;font-size: 16px&quot;&gt;服务器&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="40" width="120" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="w_0JxuRFHpsOuWEEec5f-5" value="1. 请求服务器公钥" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="120" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w_0JxuRFHpsOuWEEec5f-8" value="2.&amp;nbsp; 发送数字证书" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="230" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w_0JxuRFHpsOuWEEec5f-12" value="3.&amp;nbsp; 发送 加密后的 客户端密钥" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="370" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w_0JxuRFHpsOuWEEec5f-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="w_0JxuRFHpsOuWEEec5f-20" target="w_0JxuRFHpsOuWEEec5f-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w_0JxuRFHpsOuWEEec5f-20" value="&lt;span style=&quot;font-size: 16px&quot;&gt;CA 机构&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="40" width="120" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="w_0JxuRFHpsOuWEEec5f-22" value="&amp;nbsp; 申请证书 提交网站信息、公钥、hash算法等" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="110" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w_0JxuRFHpsOuWEEec5f-24" value="&amp;nbsp;将服务器信息进行hash&amp;nbsp; &amp;nbsp;数据摘要&lt;br&gt;CA私钥加密hash&amp;nbsp; &amp;nbsp;数据签名&lt;br&gt;证书明文数据+数据签名&amp;nbsp; &amp;nbsp;数据证书&lt;br&gt;返回数据证书" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacingTop=4;" vertex="1" parent="1">
+          <mxGeometry x="470" y="180" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="w_0JxuRFHpsOuWEEec5f-27" value="服务器明文数据+数字签名&amp;nbsp; &amp;nbsp;数字证书&lt;br&gt;CA公钥 解密 数字签名 得到数据摘要 hash&lt;br&gt;利用明文数据里的hash算法 加密 服务器明文数据 得到 hash&lt;br&gt;判断两个hash是否一致&lt;br&gt;一致则用服务器公钥 加密 客户端密钥" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-430" y="205" width="360" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="w_0JxuRFHpsOuWEEec5f-31" value="4. 服务器公钥 解密 加密后的客户端密钥&lt;br&gt;得到 客户端密钥&lt;br&gt;之后用这个密钥加密数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="550" width="280" height="57" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
